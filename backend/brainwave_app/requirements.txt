@@ -1,0 +1,9 @@
+tensorflow
+streamlit
+opencv-python-headless
+plotly
+pandas
+numpy
+fastapi
+uvicorn[standard]
+pillow

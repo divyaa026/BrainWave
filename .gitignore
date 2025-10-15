@@ -53,6 +53,11 @@ data/
 *.csv
 *.npy
 
+# Node.js
+node_modules/
+package-lock.json
+package.json
+
 # Logs
 *.log
 logs/
