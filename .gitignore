@@ -49,7 +49,6 @@ checkpoints/
 *.h5
 *.pkl
 *.joblib
-data/
 *.csv
 *.npy
 
